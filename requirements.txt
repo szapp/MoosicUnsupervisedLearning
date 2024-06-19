@@ -1,13 +1,13 @@
-black
-flake8
-isort
-loguru
-mkdocs
-mkdocs-material
-mkdocstrings
+black==24.4.2
+flake8==7.1.0
+isort==5.13.2
+loguru==0.7.2
+mkdocs==1.6.0
+mkdocs-material==9.5.27
+mkdocstrings==0.25.1
 mkdocstrings[python]
-pip
-python-dotenv
-tqdm
-typer
+pip==24.0
+python-dotenv==1.0.1
+tqdm==4.66.4
+typer==0.12.3
 -e .
