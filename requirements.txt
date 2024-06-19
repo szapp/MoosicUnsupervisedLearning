@@ -5,8 +5,10 @@ loguru==0.7.2
 mkdocs-material==9.5.27
 mkdocs==1.6.0
 mkdocstrings-python==1.10.5
+pandas==2.2.2
 pip==24.0
 python-dotenv==1.0.1
+scikit-learn==1.5.0
 tqdm==4.66.4
 typer==0.12.3
 -e .
