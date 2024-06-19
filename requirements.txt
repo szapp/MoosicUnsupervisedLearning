@@ -3,6 +3,9 @@ flake8
 isort
 loguru
 mkdocs
+mkdocs-material
+mkdocstrings
+mkdocstrings[python]
 pip
 python-dotenv
 tqdm

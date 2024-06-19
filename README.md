@@ -1,8 +1,9 @@
 # Moosic Unsupervised Learning
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+[![Cookiecutter Data Science](https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter)](https://cookiecutter-data-science.drivendata.org)
+[![build](https://github.com/szapp/MoosicUnsupervisedLearning/actions/workflows/build.yml/badge.svg)](https://github.com/szapp/MoosicUnsupervisedLearning/actions/workflows/build.yml)
+[![docs](https://img.shields.io/github/deployments/szapp/MoosicUnsupervisedLearning/github-pages?logo=materialformkdocs&logoColor=white&label=docs
+)](https://szapp.github.io/MoosicUnsupervisedLearning/)
 
 Case study: Unsupervised machine learning using K-means clustering to recommend Spotify playlists based on mood and style. Team project with pandas and scikit-learn
 
